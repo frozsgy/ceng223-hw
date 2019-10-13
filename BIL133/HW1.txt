@@ -1,0 +1,36 @@
+Homework #1
+Hi folks,
+
+ 
+
+Welcome to BIL 133 Combinatorics class. This is your third semester in the "computer science" department, you have taken several computer science classes as well as several science classes. I assume that you have some idea about similarities and distinctions between science and computer science. In your first assignment, this is exactly what you are asked to explore.
+
+ 
+
+HW #1: Please write an essay that addresses the question of "Is computer science a science?"
+
+ 
+
+Guidelines:
+
+ 
+
+1) You may google and see what other people think about this question. I'm not expecting you to come up with a totally genuine idea. However, you should properly cite the resources you used.
+
+ 
+
+2) There is not really a page limitation. However, the essay should be around 2 pages.
+
+ 
+
+3) In all the assignments and exams, you are supposed to write in English and this homework is no exception!
+
+ 
+
+4) You are supposed to make your research by yourself, but I will give you two texts that you may use as a starting point.
+
+ComputerScience.pdf
+
+ 
+
+https://www.cs.mtu.edu/~john/jenning.pdf
